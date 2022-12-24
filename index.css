@@ -10,7 +10,8 @@ body{
     overflow-x:hidden;
     margin: 0%;
     background-color: rgb(13,14,20);
-    background-image: url(img/bg22.jpeg); 
+    background-image: url(img/bg21.jpg);
+    
     background-attachment: fixed;
     
     background-size: cover;
@@ -66,18 +67,13 @@ a {
 #values{
   margin-bottom: -3%;
   height:100;
-  background-image: url(img/bg21.jpg);
-  background-attachment: fixed;
-    
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  
   background-size: cover;
   color: rgb(255, 255, 255);
 
 }
 #motto{
-  background-image: url(img/cover.png);
+  
   min-height: 100vh;
   background-size: cover;
 
