@@ -1,1 +1,1 @@
-# edc-alt
+# Alternate design, EDC IIEST Shibpur
